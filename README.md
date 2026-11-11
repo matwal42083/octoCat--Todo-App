@@ -2,6 +2,14 @@
 
 A browser-based task list built as a freeCodeCamp JavaScript coding assignment. Add tasks with a title, date, and description, then edit or delete them. Tasks are saved in your browser using `localStorage`, so they remain available when you reopen the app in the same browser.
 
+## Project origin
+
+<a href="https://www.freecodecamp.org/learn/">
+  <img src="https://raw.githubusercontent.com/matwal42083/myPortfolio/main/src/assets/images/freeCodeCampLogo.jpg" alt="freeCodeCamp logo" width="150">
+</a>
+
+This project was completed as a freeCodeCamp JavaScript coding assignment.
+
 ![Screenshot of the Todo App](https://github.com/matwal42083/octoCat--Todo-App/assets/115494989/5057b2ff-b3ed-4469-adad-c68268af97cc)
 
 ## Run locally
